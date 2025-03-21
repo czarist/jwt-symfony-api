@@ -1,0 +1,11 @@
+[{
+        "propertyId": 1,
+        "location": "123 Street",
+        "cost": 100000
+    },
+    {
+        "propertyId": 2,
+        "location": "456 Road",
+        "cost": 200000
+    }
+]

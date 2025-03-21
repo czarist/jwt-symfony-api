@@ -1,0 +1,11 @@
+[{
+        "id": "a1",
+        "address": "789 Avenue",
+        "price": 95000
+    },
+    {
+        "id": "a2",
+        "address": "321 Boulevard",
+        "price": 120000
+    }
+]
